@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Serin-Kim&show_icons=true&theme=rose_pine)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serin-Kim&layout=compact&theme=rose_pine) 
  
 
 <!--
